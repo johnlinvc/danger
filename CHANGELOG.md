@@ -1,6 +1,8 @@
 ## master
 
--* Add your own contribution below
+* Add your own contribution below
+
+* Minor changes to the danger Gemfile - orta
 
 ## 4.2.2
 
